@@ -1,0 +1,30 @@
+{
+	"name": "from-partial",
+	"version": "1.0.1",
+	"description": "Instantiates a Partial object to use all class methods, getters and setters. Useful for HttpClient responses.",
+	"keywords": [
+		"partial",
+		"frompartial",
+		"getter",
+		"setter",
+		"rxjs",
+		"instance",
+		"instantiate",
+		"instantiation"
+	],
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "Rafael Rosa dos Santos <rafaelxsantosx@hotmail.com> (rafaelrosa.dev)",
+	"license": "MIT",
+	"files": [
+		"/dist",
+		"/tests"
+	],
+	"devDependencies": {
+		"@types/jest": "^29.5.0",
+		"ts-jest": "^29.0.5"
+	}
+}
