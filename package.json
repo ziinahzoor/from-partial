@@ -1,6 +1,6 @@
 {
 	"name": "from-partial",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Rafael Rosa dos Santos <rafaelxsantosx@hotmail.com> (rafaelrosa.dev)",
 	"description": "Instantiates a Partial object to use all class methods, getters and setters. Useful for HttpClient responses.",
 	"license": "MIT",
